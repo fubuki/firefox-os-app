@@ -1,4 +1,4 @@
-HTML5-APP
+firefox os app
 =========
 
-使用HTML5建立一個web APP
+建立一個firefox os app

@@ -6,12 +6,17 @@
     "128": "/images/icon-128.png"
   },
   "developer": {
-    "name": "Chris Mills",
-    "url": "http://www.conquestofsteel.co.uk"
+    "name": "fubuki",
+    "url": "https://github.com/fubuki"
   },
   "permissions": {
     "desktop-notification": {
+      "push": {},
       "description": "Needed for creating system notifications."
     }
   }
+  "messages": [
+    { "push": "/" },
+    { "push-register": "/" }
+  ]
 }

@@ -7,6 +7,7 @@ firefox os app
 2. [how-to-start-developing-apps-for-firefox-os]  
 3. [App_Basics_for_Firefox_OS]  
 4. [buildingfirefoxos]
+5. [webmaker]
 
 [firefoxos-quick-guide]:https://github.com/soapdog/firefoxos-quick-guide
 [how-to-start-developing-apps-for-firefox-os]:http://www.slideshare.net/benko/how-to-start-developing-apps-for-firefox-os

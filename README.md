@@ -8,9 +8,11 @@ firefox os app
 3. [App_Basics_for_Firefox_OS]  
 4. [buildingfirefoxos]
 5. [webmaker]
+6. [validator]
 
 [firefoxos-quick-guide]:https://github.com/soapdog/firefoxos-quick-guide
 [how-to-start-developing-apps-for-firefox-os]:http://www.slideshare.net/benko/how-to-start-developing-apps-for-firefox-os
 [App_Basics_for_Firefox_OS]: https://developer.mozilla.org/zh-TW/Firefox_OS/Screencast_series:_App_Basics_for_Firefox_OS
 [buildingfirefoxos]:http://buildingfirefoxos.com/
 [webmaker]: https://apps.webmaker.org/designer
+[validator]:https://marketplace.firefox.com/developers/validator
